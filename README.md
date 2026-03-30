@@ -62,7 +62,7 @@ Higher engagement rate than Facebook in some cases
 However, it falls behind in shares, comments, and overall interaction, making it slightly less valuable for marketing investment in this scenario.
 
 ## Dashboard 
-"https://github.com/paulmchunu69-droid/Social-Media-Engagement-Dashboard-/blob/main/Capture1.PNG">View Dashboard</a> 
+https://github.com/paulmchunu69-droid/Social-Media-Engagement-Dashboard-/blob/main/Capture1.PNG
 
 
 ## Final Recommendation
