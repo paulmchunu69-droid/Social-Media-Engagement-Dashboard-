@@ -70,6 +70,10 @@ Facebook
 
 While Twitter performs competitively, Instagram and Facebook provide stronger overall engagement and interaction, making them the better platforms for marketing efforts.
 
+
+# PowerBi File
+https://github.com/paulmchunu69-droid/Social-Media-Engagement-Dashboard-/blob/main/Social%20Dashboard.pbit
+
 ## Conclusion
 
 This project demonstrates how data visualization and analysis can help businesses make data-driven marketing decisions. By analyzing engagement metrics across multiple platforms, companies can better allocate resources to the platforms that generate the highest audience interaction and reach.
